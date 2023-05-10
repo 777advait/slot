@@ -1,0 +1,22 @@
+{
+  "name": "slot",
+  "version": "1.0.0",
+  "description": "A slot machine simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/777advait/slot.git"
+  },
+  "author": "777advait",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/777advait/slot/issues"
+  },
+  "homepage": "https://github.com/777advait/slot#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
